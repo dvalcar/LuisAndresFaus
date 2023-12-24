@@ -1,0 +1,12 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|26 Sep 2005 17:56:35 -0000
+vti_extenderversion:SR|5.0.2.2623
+vti_nosourcecontrol:SR|True
+vti_author:SR|VALKILLER\\Sara y
+vti_modifiedby:SR|VALKILLER\\Sara y
+vti_nexttolasttimemodified:TR|26 Sep 2005 17:56:35 -0000
+vti_timecreated:TR|26 Sep 2005 17:56:35 -0000
+vti_lineageid:SR|{64BB16AE-6390-4573-9637-B4DAEECFF7D2}
+vti_cacheddtm:TX|26 Sep 2005 17:56:35 -0000
+vti_filesize:IR|0
+vti_backlinkinfo:VX|comentarios.htm boquillas.htm
